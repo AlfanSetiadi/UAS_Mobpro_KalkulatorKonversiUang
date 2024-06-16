@@ -1,5 +1,5 @@
-#Aplikasi Kalkulator dengan Fitur Konversi Mata Uang
-###Dikembangkan Oleh :
+**Aplikasi Kalkulator dengan Fitur Konversi Mata Uang**
+Dikembangkan Oleh :
 - Tri Deka Rahmawati STI202102198
 - Alfan Setiadi STI202102200
 - Dwi Lusiani STI20210270
