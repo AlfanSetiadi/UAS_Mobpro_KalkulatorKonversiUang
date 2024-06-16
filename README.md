@@ -1,4 +1,4 @@
-**Aplikasi Kalkulator dengan Fitur Konversi Mata Uang**
+**Aplikasi Kalkulator dengan Fitur Konversi Mata Uang.**
 Dikembangkan Oleh :
 - Tri Deka Rahmawati STI202102198
 - Alfan Setiadi STI202102200
